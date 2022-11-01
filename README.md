@@ -9,6 +9,9 @@ git clone https://github.com/Will4950/Zoom-User-Management-API-Sample-App.git
 # Navigate into the cloned project directory
 cd Zoom-User-Management-API-Sample-App
 
+# edit .env
+nano .env
+
 # Build docker images
 docker-compose build
 
